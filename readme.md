@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thezarpxs</h1>
 <h3 align="center">A junior developer from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thezarpxs&label=Profile%20views&color=0e75b6&style=flat" alt="thezarpxs" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thezarpxs&label=Profile%20views&color=0e75b6&style=flat" alt="thezarpxs" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thezarpxs&theme=dracula&column=-1" alt="thezarpxs" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thezarpxs&theme=dracula&column=3&title=Joined2020,Commits,PullRequest,Followers,Repositories,Issues" alt="thezarpxs" /></a> </p>
 
 - 🌱 I’m currently learning **Lua, CSS, HTML, Git and SQL**
 
