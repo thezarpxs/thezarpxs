@@ -13,7 +13,7 @@
 
 - 📫 How to reach me [Discord User] **https://discord.com/users/315520728072060930**
 
-- ⚡ Fun fact **Sometimes I can take you a smille**
+- ⚡ Fun fact **Sometimes I can take you a smile**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
