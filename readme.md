@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thezarpxs&theme=dracula&column=3&title=Joined2020,Commits,PullRequest,Followers,Repositories,Issues" alt="thezarpxs" /></a> </p>
 
-- 🌱 I’m currently learning **Lua, CSS, HTML, Git and SQL**
+- 🌱 I’m currently learning **Lua, CSS, HTML and starting at AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thezarpxs](https://github.com/thezarpxs)
 
